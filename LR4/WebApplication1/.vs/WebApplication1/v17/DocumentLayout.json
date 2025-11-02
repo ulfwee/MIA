@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0487BEC-CF98-424A-BBAF-8D569E44BCE9}|WebApplication1.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\lr4\\webapplication1\\endpoints\\usersendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0487BEC-CF98-424A-BBAF-8D569E44BCE9}|WebApplication1.csproj|solutionrelative:endpoints\\usersendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0487BEC-CF98-424A-BBAF-8D569E44BCE9}|WebApplication1.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\lr4\\webapplication1\\endpoints\\bookingendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0487BEC-CF98-424A-BBAF-8D569E44BCE9}|WebApplication1.csproj|solutionrelative:endpoints\\bookingendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0487BEC-CF98-424A-BBAF-8D569E44BCE9}|WebApplication1.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\lr4\\webapplication1\\endpoints\\mastersendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0487BEC-CF98-424A-BBAF-8D569E44BCE9}|WebApplication1.csproj|solutionrelative:endpoints\\mastersendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0487BEC-CF98-424A-BBAF-8D569E44BCE9}|WebApplication1.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\lr4\\webapplication1\\endpoints\\todoendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0487BEC-CF98-424A-BBAF-8D569E44BCE9}|WebApplication1.csproj|solutionrelative:endpoints\\todoendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0487BEC-CF98-424A-BBAF-8D569E44BCE9}|WebApplication1.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\lr4\\webapplication1\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0487BEC-CF98-424A-BBAF-8D569E44BCE9}|WebApplication1.csproj|solutionrelative:models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0487BEC-CF98-424A-BBAF-8D569E44BCE9}|WebApplication1.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\lr4\\webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0487BEC-CF98-424A-BBAF-8D569E44BCE9}|WebApplication1.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0487BEC-CF98-424A-BBAF-8D569E44BCE9}|WebApplication1.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\lr4\\webapplication1\\models\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0487BEC-CF98-424A-BBAF-8D569E44BCE9}|WebApplication1.csproj|solutionrelative:models\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0487BEC-CF98-424A-BBAF-8D569E44BCE9}|WebApplication1.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\lr4\\webapplication1\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0487BEC-CF98-424A-BBAF-8D569E44BCE9}|WebApplication1.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0487BEC-CF98-424A-BBAF-8D569E44BCE9}|WebApplication1.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\lr4\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0487BEC-CF98-424A-BBAF-8D569E44BCE9}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0487BEC-CF98-424A-BBAF-8D569E44BCE9}|WebApplication1.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\lr4\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0487BEC-CF98-424A-BBAF-8D569E44BCE9}|WebApplication1.csproj|solutionrelative:webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\WebApplication1\\Endpoints\\UsersEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\UsersEndpoints.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\WebApplication1\\Endpoints\\UsersEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\UsersEndpoints.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvzcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T20:11:35.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\WebApplication1\\Endpoints\\BookingEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\BookingEndpoints.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\WebApplication1\\Endpoints\\BookingEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\BookingEndpoints.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAADwv0EAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T20:11:20.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\WebApplication1\\Endpoints\\TodoEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\TodoEndpoints.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\WebApplication1\\Endpoints\\TodoEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\TodoEndpoints.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvysAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T19:46:54.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MastersEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\WebApplication1\\Endpoints\\MastersEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\MastersEndpoints.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\WebApplication1\\Endpoints\\MastersEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\MastersEndpoints.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvywAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T20:11:03.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\WebApplication1\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\WebApplication1\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T20:12:13.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Master.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\WebApplication1\\Models\\Master.cs",
+              "RelativeDocumentMoniker": "Models\\Master.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\WebApplication1\\Models\\Master.cs",
+              "RelativeToolTip": "Models\\Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T20:11:57.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\WebApplication1\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\WebApplication1\\Models\\TodoItem.cs",
+              "RelativeToolTip": "Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T19:47:09.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T19:49:33.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\WebApplication1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\WebApplication1\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T20:12:22.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebApplication1",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-02T19:47:50.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
