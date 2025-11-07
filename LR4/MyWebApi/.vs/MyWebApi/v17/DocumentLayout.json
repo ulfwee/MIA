@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\lr4\\mywebapi\\validators\\todoitemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|solutionrelative:validators\\todoitemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\lr4\\mywebapi\\validators\\bookingvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|solutionrelative:validators\\bookingvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\lr4\\mywebapi\\validators\\mastervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|solutionrelative:validators\\mastervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\lr4\\mywebapi\\validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|solutionrelative:validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\lr4\\mywebapi\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|solutionrelative:controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\lr4\\mywebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\lr4\\mywebapi\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|solutionrelative:controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\lr4\\mywebapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\lr4\\mywebapi\\models\\todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|solutionrelative:models\\todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\lr4\\mywebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\lr4\\mywebapi\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\lr4\\mywebapi\\models\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|solutionrelative:models\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\lr4\\mywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\lr4\\mywebapi\\mywebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|solutionrelative:mywebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:23:23.747Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodosController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Controllers\\TodosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TodosController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Controllers\\TodosController.cs",
+              "RelativeToolTip": "Controllers\\TodosController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:23:49.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Validators\\UserValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\UserValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Validators\\UserValidator.cs",
+              "RelativeToolTip": "Validators\\UserValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T01:44:28.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MasterValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Validators\\MasterValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\MasterValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Validators\\MasterValidator.cs",
+              "RelativeToolTip": "Validators\\MasterValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T01:44:45.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Validators\\BookingValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\BookingValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Validators\\BookingValidator.cs",
+              "RelativeToolTip": "Validators\\BookingValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T01:44:56.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoItemValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Validators\\TodoItemValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\TodoItemValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Validators\\TodoItemValidator.cs",
+              "RelativeToolTip": "Validators\\TodoItemValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:59:37.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:42:03.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MasterController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Controllers\\MasterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MasterController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Controllers\\MasterController.cs",
+              "RelativeToolTip": "Controllers\\MasterController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:42:34.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:42:21.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Todos.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Models\\Todos.cs",
+              "RelativeDocumentMoniker": "Models\\Todos.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Models\\Todos.cs",
+              "RelativeToolTip": "Models\\Todos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:29:38.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:36:50.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:37:10.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Master.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Models\\Master.cs",
+              "RelativeDocumentMoniker": "Models\\Master.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\Models\\Master.cs",
+              "RelativeToolTip": "Models\\Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:37:00.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyWebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\MyWebApi.csproj",
+              "RelativeDocumentMoniker": "MyWebApi.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\LR4\\MyWebApi\\MyWebApi.csproj",
+              "RelativeToolTip": "MyWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-04T10:29:14.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
