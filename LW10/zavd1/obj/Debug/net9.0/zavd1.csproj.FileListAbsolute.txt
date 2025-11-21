@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\коледж\моделювання\LW10\zavd1\bin\Debug\net9.0\zavd1.exe
+C:\Users\User\Desktop\коледж\моделювання\LW10\zavd1\bin\Debug\net9.0\zavd1.deps.json
+C:\Users\User\Desktop\коледж\моделювання\LW10\zavd1\bin\Debug\net9.0\zavd1.runtimeconfig.json
+C:\Users\User\Desktop\коледж\моделювання\LW10\zavd1\bin\Debug\net9.0\zavd1.dll
+C:\Users\User\Desktop\коледж\моделювання\LW10\zavd1\bin\Debug\net9.0\zavd1.pdb
+C:\Users\User\Desktop\коледж\моделювання\LW10\zavd1\obj\Debug\net9.0\zavd1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\коледж\моделювання\LW10\zavd1\obj\Debug\net9.0\zavd1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\коледж\моделювання\LW10\zavd1\obj\Debug\net9.0\zavd1.AssemblyInfo.cs
+C:\Users\User\Desktop\коледж\моделювання\LW10\zavd1\obj\Debug\net9.0\zavd1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\коледж\моделювання\LW10\zavd1\obj\Debug\net9.0\zavd1.dll
+C:\Users\User\Desktop\коледж\моделювання\LW10\zavd1\obj\Debug\net9.0\refint\zavd1.dll
+C:\Users\User\Desktop\коледж\моделювання\LW10\zavd1\obj\Debug\net9.0\zavd1.pdb
+C:\Users\User\Desktop\коледж\моделювання\LW10\zavd1\obj\Debug\net9.0\zavd1.genruntimeconfig.cache
+C:\Users\User\Desktop\коледж\моделювання\LW10\zavd1\obj\Debug\net9.0\ref\zavd1.dll
